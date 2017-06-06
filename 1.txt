@@ -1,4 +1,4 @@
-1 point 1 - point 7
-2 point 1 - point 7
+1 point 1 - point 7 - point 17
+2 point 1 - point 7 - point 17
 3 point 8
 4 point 8
